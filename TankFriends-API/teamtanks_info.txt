@@ -1,0 +1,5 @@
+teamtanks app
+
+name:         sketchy-teamtanks
+clientId:     134879189280.137176078256
+clientSecret: ee82cb4d35648c00f882386ed1a97026
